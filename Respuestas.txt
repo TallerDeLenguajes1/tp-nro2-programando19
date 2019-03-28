@@ -1,0 +1,2 @@
+Opcion_2 es una rama de trabajo, que se crea separada totalmente de la rama estable (master)
+Hasta este punto, no es posible ver el archivo tp2_1_2.cpp, ya la rama Opcion_2, aun no esta fusionada (merge) con la rama origen (master)
