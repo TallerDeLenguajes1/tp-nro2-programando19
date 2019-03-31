@@ -1,0 +1,8 @@
+RESPUETAS DEL TP-2
+Opcion_2 es una rama de trabajo, que se crea separada totalmente de la rama estable (master) Hasta este punto, 
+no es posible ver el archivo tp2_1_2.cpp, ya la rama Opcion_2, aun no esta fusionada (merge) con la rama origen (master) 
+por lo tanto se trata de dos ramas distintas del mismo repositorio
+
+con el comando gitk --all muestra las dos ramas antes de hacer la fusion. Una vez que hacemos el merge, observaremos que 
+el master absorbe a la rama Opcion_2, mostrando en el master el archivo tp2_1_2 y demas archivos creados en esa rama Opcion_2
+ en conjunto con los archivos de master
