@@ -4,4 +4,4 @@ tp-nro2-programando19 created by GitHub Classroom
 SILVIA ELENA SARACHO - TPN-2
 
 
-problemas con la consola git de hit  - subiendo cambios manualemnte
+problemas con la consola de git hub - subiendo cambios manualemnte
